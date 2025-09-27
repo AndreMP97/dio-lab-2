@@ -1,0 +1,42 @@
+{
+  "apim-request-id": "b71bcd5c-553c-4dd4-b04d-d1109955ed06",
+  "content-length": "288",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "metadata": {
+    "width": 852,
+    "height": 1280
+  },
+  "objectsResult": {
+    "values": [
+      {
+        "boundingBox": {
+          "x": 30,
+          "y": 123,
+          "w": 641,
+          "h": 795
+        },
+        "tags": [
+          {
+            "name": "retriever",
+            "confidence": 0.556
+          }
+        ]
+      },
+      {
+        "boundingBox": {
+          "x": 270,
+          "y": 513,
+          "w": 474,
+          "h": 677
+        },
+        "tags": [
+          {
+            "name": "cat",
+            "confidence": 0.716
+          }
+        ]
+      }
+    ]
+  }
+}
